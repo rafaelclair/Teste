@@ -11,5 +11,6 @@
 	phpinfo();
 	 ?>
 	 echo "Hello Word";
+	 echo "<br>
 </body>
 </html>
