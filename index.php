@@ -10,6 +10,6 @@
 	<?php
 	phpinfo();
 	 ?>
-	 echo "oi";
+	 echo "Hello Word";
 </body>
 </html>
